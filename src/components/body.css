@@ -1,0 +1,26 @@
+.bodyy{
+  position: absolute;
+  
+  bottom: 40px;
+  margin: 103px;
+ 
+  border-radius: 100px;
+}
+
+.text1{
+  box-shadow: 10px 10px 10px 10px #2c2b3f;
+
+}
+.text{
+  margin-bottom: -8vh;
+ 
+}
+
+.group{
+  margin-left: 520px;
+  margin-bottom: -190px;
+  width: 100px;
+  cursor: pointer;
+
+}
+
